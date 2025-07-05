@@ -17,3 +17,5 @@ faiss-cpu
 langchain_google_genai
 langchain-pinecone
 pinecone
+youtube_search
+langgraph
