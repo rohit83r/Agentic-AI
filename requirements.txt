@@ -19,3 +19,4 @@ langchain-pinecone
 pinecone
 youtube_search
 langgraph
+chromadb
