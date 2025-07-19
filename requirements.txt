@@ -20,3 +20,5 @@ pinecone
 youtube_search
 langgraph
 chromadb
+duckduckgo-search
+yfinance
