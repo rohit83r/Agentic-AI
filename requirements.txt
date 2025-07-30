@@ -22,3 +22,6 @@ langgraph
 chromadb
 duckduckgo-search
 yfinance
+matplotlib
+seaborn
+langchain_experimental
